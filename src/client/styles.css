@@ -1,0 +1,47 @@
+/* .container-fluid {
+  display: flex;
+  flex-direction: column;
+} */
+
+
+#schedule {
+float: right;
+
+}
+
+#app {
+  width: 500px;
+  float: right
+}
+/*
+#standings {
+  margin: auto;
+  padding-bottom: 20px;
+  padding-left: 400px;
+} */
+
+/* #standings {
+  margin: auto;
+  margin-left: 100px;
+  padding-left: 200px;
+} */
+
+/* #app {
+  justify-content: 'center';
+  margin: auto;
+  padding-left: 50px;
+} */
+/*
+#schedule {
+  padding-top: 20px;
+  padding-left: 400px;
+  width: auto;
+  margin: auto;
+  justify-content: 'center';
+} */
+
+/* #Stats {
+  margin: auto;
+  padding-bottom: 20px;
+  padding-left: 400px;
+} */
